@@ -7,7 +7,7 @@ TODO:
 
 https://davideddu.org/blog/posts/graphics-card-i2c-port-howto/ (diagram here ..., modprobe ...)
 
-https://github.com/sweetpi/python-i2c-lcd (try out ...)
+https://github.com/sweetpi/python-i2c-lcd (try out python code ...)
 
 https://funduino.de/nr-19-i%C2%B2c-display (pictures here)
 
